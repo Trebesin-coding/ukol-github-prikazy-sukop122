@@ -1,0 +1,6 @@
+prvni jsem pouzil git clone url (repozitare)
+pote jsem napsal kod
+zadal spravnou cestu v terminalu
+napsal git add .  abyc dal vsechny upravy do stagging area
+git commit -m "nahrani webovky" zprava commitu
+pak git push origin main   poslani na github
